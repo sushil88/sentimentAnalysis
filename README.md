@@ -6,9 +6,9 @@ framework: v1
 platform: AWS
 language: Java
 -->
-# Simple HTTP Endpoint Example
+# Simple HTTP Endpoint Example in Java for AWS Comprehend APIs
 
-This example demonstrates how to setup a simple HTTP GET endpoint using Java. Once you ping it, Once you ping it with comment text, it will reply with the sentiment analysis details for given comment.
+This example demonstrates how to setup a simple HTTP GET endpoint using Java. Once you ping it with comment text, it will reply with the sentiment analysis details for given comment.
 
 [Jackson](https://github.com/FasterXML/jackson) is used to serialize objects to JSON.
 
