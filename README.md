@@ -79,7 +79,8 @@ package:
 ```
 before deploying.
 
-Before deploying you have to provide aws profile. Check details on how to configure AWS profile here : https://docs.aws.amazon.com/cli/latest/userguide/cli-multiple-profiles.html
+Before deploying you have to provide aws profile. Check details on how to configure AWS profile here : https://docs.aws.amazon.com/cli/latest/userguide/cli-multiple-profiles.html.
+
 In `serverless.yml` you have to replace
 
 ```yaml
